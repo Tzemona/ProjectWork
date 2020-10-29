@@ -7,22 +7,14 @@
     <title>Film</title>
 </head>
 <body>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
     
-    <script>
+    <div id="container">
+        <div id="page"></div>
+    </div>
+    
 
-        let myRequest = new Request("");
-
-        fetch(myRequest)
-        .then(function(resp){
-            return resp.json();
-        })
-        .then(function(data){
-            console.log(data);
-        });
-    </script>
-
-<script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script src="main.js"></script>
 
 </body>
 </html>
