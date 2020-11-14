@@ -107,6 +107,18 @@
         "recensione":5,
         "copertina": "https://upload.wikimedia.org/wikipedia/commons/1/18/Eraserhead.jpg",
         "ora_in_sala": false
+       },
+        {
+        "id":9,
+        "titolo": "LA PRIMA DONNA",
+        "durata": 90,
+        "genere": "Documentario",
+        "regia": "Tony Saccucci",
+        "anno":2019,
+        "trama": "La storia dimenticata di Emma Carelli, diva della lirica e prima donna manager italiana. Esaltata dal suo talento. Osannata dal pubblico. Estromessa e fatta fuori dalla società dello spettacolo e degli uomini.",
+        "recensione":5,
+        "copertina":"https://pad.mymovies.it/filmclub/2019/10/072/locandina.jpg",
+        "ora_in_sala": false
        }
     ]
   }
