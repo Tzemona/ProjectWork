@@ -129,8 +129,8 @@
         "anno":2016,
         "trama": "Kevin, affetto da un disturbo da personalità multipla, rapisce tre adolescenti. Per avere una possibilità di sopravvivenza, le ragazze devono riuscire a fuggire prima che l'uomo impazzisca definitivamente.",
         "recensione":5,
-        "copertina": "https://www.mymovies.it/film/2017/split/poster/2/",
-        "ora_in_sala": true
+        "copertina": "https://cineblog01.bid/uploads/thumb/320x480-0-60/2017-12/1512609585-split.jpg",
+        "ora_in_sala": false
        },
        {
         "id":11,
@@ -146,6 +146,18 @@
        },
        {
         "id":12,
+        "titolo": "CARNE TREMULA",
+        "durata": 100,
+        "genere": "Drammatico",
+        "regia": "Pedro Almodovar",
+        "anno":2020,
+        "trama": "Cinque personaggi e una città, Madrid, che è il 6° personaggio. Nel 1990, vent'anni dopo essere avventurosamente nato su un autobus nella capitale deserta per il Natale, Victor (Rabal) s'innamora della ricca, viziata e tossica Elena (Neri) e ingiustamente finisce in prigione per aver ridotto a paraplegico con una revolverata il poliziotto David (Bardem), in realtà ferito dal suo collega Sancho (J. Sancho). Scarcerato dopo 4 anni, Victor diventa prima l'amante di Clara (Molina), moglie di Sancho, e poi di Elena, rinsavita e moglie di David. Sancho uccide Clara e si suicida. David emigra. A Natale Elena, incinta di Victor, ha le doglie. Opus n° 12 di P. Almodóvar, è un film maturo e complesso, attraversato da uno humour nero alla Buñuel (esplicitamente citato con immagini di Estasi di un delitto ). Cinemascope molto fisico e palpitante (che è la corretta traduzione del "trémula" originale) nella messinscena del piacere sessuale condiviso, è un melodramma geometrico che svaria dalla commedia alla tragedia, dal grottesco al noir, cromaticamente dominato dal rosso, ricco d'invenzioni e recitato benissimo, con una dimensione politica inedita nel regista. Liberamente ispirato al romanzo Live Flesh di Ruth Rendell. ",
+        "recensione": 4,
+        "copertina": "https://cineblog01.bid/uploads/thumb/320x480-0-60/2020-11/1605287497-723779785.jpg",
+        "ora_in_sala": false
+       },
+       {
+        "id": 13,
         "titolo": "IL CASO PANTANI  -  L'OMICIDO DI UN CAMPIONE",
         "durata": 90,
         "genere": "Drammatico",
@@ -157,7 +169,7 @@
         "ora_in_sala": true
        },
        {
-        "id":2,
+        "id": 14,
         "titolo": "IL CASO PANTANI  -  L'OMICIDO DI UN CAMPIONE",
         "durata": 90,
         "genere": "Drammatico",
@@ -169,31 +181,7 @@
         "ora_in_sala": true
        },
        {
-        "id":2,
-        "titolo": "IL CASO PANTANI  -  L'OMICIDO DI UN CAMPIONE",
-        "durata": 90,
-        "genere": "Drammatico",
-        "regia": "Domenico Ciolfi",
-        "anno":2020,
-        "trama": "A 16 anni dalla scomparsa del Pirata, finalmente un film porta sul grande schermo la sua storia. Il caso Pantani è un noir contemporaneo, un thriller, ma anche un film d'inchiesta, un biopic, un film drammatico. Una ricostruzione accurata e avvincente della vita del campione romagnolo che svelerà particolari inediti sulla sua morte. Marco Pantani è stato ucciso due volte: a Madonna di Campiglio, vittima di una provetta manipolata e dalla criminalità organizzata e a Rimini, cinque anni dopo, dove verrà trovato solo, disteso a terra, a petto nudo, il giorno di San Valentino. E' il racconto di Marco e delle tre fasi della sua breve vita: tre anime, tre interpreti, un solo uomo.",
-        "recensione":5,
-        "copertina":"https://media.gazzettadiparma.it/images/2020/10/12/1602460845505_locandina_360x514_1602460846172.jpg",
-        "ora_in_sala": true
-       },
-       {
-        "id":2,
-        "titolo": "IL CASO PANTANI  -  L'OMICIDO DI UN CAMPIONE",
-        "durata": 90,
-        "genere": "Drammatico",
-        "regia": "Domenico Ciolfi",
-        "anno":2020,
-        "trama": "A 16 anni dalla scomparsa del Pirata, finalmente un film porta sul grande schermo la sua storia. Il caso Pantani è un noir contemporaneo, un thriller, ma anche un film d'inchiesta, un biopic, un film drammatico. Una ricostruzione accurata e avvincente della vita del campione romagnolo che svelerà particolari inediti sulla sua morte. Marco Pantani è stato ucciso due volte: a Madonna di Campiglio, vittima di una provetta manipolata e dalla criminalità organizzata e a Rimini, cinque anni dopo, dove verrà trovato solo, disteso a terra, a petto nudo, il giorno di San Valentino. E' il racconto di Marco e delle tre fasi della sua breve vita: tre anime, tre interpreti, un solo uomo.",
-        "recensione":5,
-        "copertina":"https://media.gazzettadiparma.it/images/2020/10/12/1602460845505_locandina_360x514_1602460846172.jpg",
-        "ora_in_sala": true
-       },
-       {
-        "id":2,
+        "id":15,
         "titolo": "IL CASO PANTANI  -  L'OMICIDO DI UN CAMPIONE",
         "durata": 90,
         "genere": "Drammatico",
